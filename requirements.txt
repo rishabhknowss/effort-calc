@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pytesseract
+pdf2image
+networkx
+plantuml
